@@ -16,5 +16,6 @@ pip install -r requirements.txt
 ## Start-up notebook
 
 ```bash
+cd ./notes
 jupyter notebook
 ```
