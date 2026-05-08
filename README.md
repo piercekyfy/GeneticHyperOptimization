@@ -1,3 +1,5 @@
+## See: ./notes/FINAL.ipynb
+
 ## Setup
 
 ### Setup a virtual environment (optional)
@@ -19,3 +21,4 @@ pip install -r requirements.txt
 cd ./notes
 jupyter notebook
 ```
+
